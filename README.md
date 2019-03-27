@@ -1,2 +1,2 @@
 # Gripper_control
-Arduino code to program a gripper for a robot arm
+Arduino code to control a gripper for a robot arm
